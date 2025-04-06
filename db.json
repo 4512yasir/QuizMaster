@@ -1,0 +1,554 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which gas do plants absorb from the atmosphere?",
+      "correct_answer": "Carbon Dioxide",
+      "options": [
+        "Oxygen",
+        "Hydrogen",
+        "Carbon Dioxide",
+        "Nitrogen"
+      ]
+    },
+    {
+      "id": 2,
+      "question": "What is the largest ocean on Earth?",
+      "correct_answer": "Pacific Ocean",
+      "options": [
+        "Atlantic Ocean",
+        "Indian Ocean",
+        "Pacific Ocean",
+        "Arctic Ocean"
+      ]
+    },
+    {
+      "id": 3,
+      "question": "What is the currency of Japan?",
+      "correct_answer": "Yen",
+      "options": [
+        "Won",
+        "Dollar",
+        "Yen",
+        "Euro"
+      ]
+    },
+    {
+      "id": 4,
+      "question": "Who painted the Mona Lisa?",
+      "correct_answer": "Leonardo da Vinci",
+      "options": [
+        "Vincent van Gogh",
+        "Leonardo da Vinci",
+        "Pablo Picasso",
+        "Michelangelo"
+      ]
+    },
+    {
+      "id": 5,
+      "question": "Who wrote 'Romeo and Juliet'?",
+      "correct_answer": "William Shakespeare",
+      "options": [
+        "William Shakespeare",
+        "Charles Dickens",
+        "Jane Austen",
+        "Mark Twain"
+      ]
+    },
+    {
+      "id": 6,
+      "question": "What is the largest ocean on Earth?",
+      "correct_answer": "Pacific Ocean",
+      "options": [
+        "Atlantic Ocean",
+        "Indian Ocean",
+        "Pacific Ocean",
+        "Arctic Ocean"
+      ]
+    },
+    {
+      "id": 7,
+      "question": "Which gas do plants absorb from the atmosphere?",
+      "correct_answer": "Carbon Dioxide",
+      "options": [
+        "Oxygen",
+        "Hydrogen",
+        "Carbon Dioxide",
+        "Nitrogen"
+      ]
+    },
+    {
+      "id": 8,
+      "question": "What is the largest ocean on Earth?",
+      "correct_answer": "Pacific Ocean",
+      "options": [
+        "Atlantic Ocean",
+        "Indian Ocean",
+        "Pacific Ocean",
+        "Arctic Ocean"
+      ]
+    },
+    {
+      "id": 9,
+      "question": "Which gas do plants absorb from the atmosphere?",
+      "correct_answer": "Carbon Dioxide",
+      "options": [
+        "Oxygen",
+        "Hydrogen",
+        "Carbon Dioxide",
+        "Nitrogen"
+      ]
+    },
+    {
+      "id": 10,
+      "question": "What is the currency of Japan?",
+      "correct_answer": "Yen",
+      "options": [
+        "Won",
+        "Dollar",
+        "Yen",
+        "Euro"
+      ]
+    },
+    {
+      "id": 11,
+      "question": "What does CSS stand for?",
+      "correct_answer": "Cascading Style Sheets",
+      "options": [
+        "Cascading Style Sheets",
+        "Computer Style Sheets",
+        "Creative Style Sheets",
+        "Colorful Style Sheets"
+      ]
+    },
+    {
+      "id": 12,
+      "question": "What is the boiling point of water?",
+      "correct_answer": "100\u00b0C",
+      "options": [
+        "90\u00b0C",
+        "100\u00b0C",
+        "80\u00b0C",
+        "120\u00b0C"
+      ]
+    },
+    {
+      "id": 13,
+      "question": "What is the boiling point of water?",
+      "correct_answer": "100\u00b0C",
+      "options": [
+        "90\u00b0C",
+        "100\u00b0C",
+        "80\u00b0C",
+        "120\u00b0C"
+      ]
+    },
+    {
+      "id": 14,
+      "question": "What is the capital of Kenya?",
+      "correct_answer": "Nairobi",
+      "options": [
+        "Nairobi",
+        "Mombasa",
+        "Kisumu",
+        "Nakuru"
+      ]
+    },
+    {
+      "id": 15,
+      "question": "Who wrote 'Romeo and Juliet'?",
+      "correct_answer": "William Shakespeare",
+      "options": [
+        "William Shakespeare",
+        "Charles Dickens",
+        "Jane Austen",
+        "Mark Twain"
+      ]
+    },
+    {
+      "id": 16,
+      "question": "Which planet is known as the Red Planet?",
+      "correct_answer": "Mars",
+      "options": [
+        "Venus",
+        "Earth",
+        "Mars",
+        "Jupiter"
+      ]
+    },
+    {
+      "id": 17,
+      "question": "Which planet is known as the Red Planet?",
+      "correct_answer": "Mars",
+      "options": [
+        "Venus",
+        "Earth",
+        "Mars",
+        "Jupiter"
+      ]
+    },
+    {
+      "id": 18,
+      "question": "What is the capital of Kenya?",
+      "correct_answer": "Nairobi",
+      "options": [
+        "Nairobi",
+        "Mombasa",
+        "Kisumu",
+        "Nakuru"
+      ]
+    },
+    {
+      "id": 19,
+      "question": "What is the capital of Kenya?",
+      "correct_answer": "Nairobi",
+      "options": [
+        "Nairobi",
+        "Mombasa",
+        "Kisumu",
+        "Nakuru"
+      ]
+    },
+    {
+      "id": 20,
+      "question": "Which gas do plants absorb from the atmosphere?",
+      "correct_answer": "Carbon Dioxide",
+      "options": [
+        "Oxygen",
+        "Hydrogen",
+        "Carbon Dioxide",
+        "Nitrogen"
+      ]
+    },
+    {
+      "id": 21,
+      "question": "What is the capital of Kenya?",
+      "correct_answer": "Nairobi",
+      "options": [
+        "Nairobi",
+        "Mombasa",
+        "Kisumu",
+        "Nakuru"
+      ]
+    },
+    {
+      "id": 22,
+      "question": "What is the capital of Kenya?",
+      "correct_answer": "Nairobi",
+      "options": [
+        "Nairobi",
+        "Mombasa",
+        "Kisumu",
+        "Nakuru"
+      ]
+    },
+    {
+      "id": 23,
+      "question": "Who painted the Mona Lisa?",
+      "correct_answer": "Leonardo da Vinci",
+      "options": [
+        "Vincent van Gogh",
+        "Leonardo da Vinci",
+        "Pablo Picasso",
+        "Michelangelo"
+      ]
+    },
+    {
+      "id": 24,
+      "question": "Who wrote 'Romeo and Juliet'?",
+      "correct_answer": "William Shakespeare",
+      "options": [
+        "William Shakespeare",
+        "Charles Dickens",
+        "Jane Austen",
+        "Mark Twain"
+      ]
+    },
+    {
+      "id": 25,
+      "question": "What is the currency of Japan?",
+      "correct_answer": "Yen",
+      "options": [
+        "Won",
+        "Dollar",
+        "Yen",
+        "Euro"
+      ]
+    },
+    {
+      "id": 26,
+      "question": "Who wrote 'Romeo and Juliet'?",
+      "correct_answer": "William Shakespeare",
+      "options": [
+        "William Shakespeare",
+        "Charles Dickens",
+        "Jane Austen",
+        "Mark Twain"
+      ]
+    },
+    {
+      "id": 27,
+      "question": "What is the largest ocean on Earth?",
+      "correct_answer": "Pacific Ocean",
+      "options": [
+        "Atlantic Ocean",
+        "Indian Ocean",
+        "Pacific Ocean",
+        "Arctic Ocean"
+      ]
+    },
+    {
+      "id": 28,
+      "question": "What is the currency of Japan?",
+      "correct_answer": "Yen",
+      "options": [
+        "Won",
+        "Dollar",
+        "Yen",
+        "Euro"
+      ]
+    },
+    {
+      "id": 29,
+      "question": "Which language is used for web development?",
+      "correct_answer": "HTML",
+      "options": [
+        "HTML",
+        "Python",
+        "C++",
+        "Swift"
+      ]
+    },
+    {
+      "id": 30,
+      "question": "Which planet is known as the Red Planet?",
+      "correct_answer": "Mars",
+      "options": [
+        "Venus",
+        "Earth",
+        "Mars",
+        "Jupiter"
+      ]
+    },
+    {
+      "id": 31,
+      "question": "Which planet is known as the Red Planet?",
+      "correct_answer": "Mars",
+      "options": [
+        "Venus",
+        "Earth",
+        "Mars",
+        "Jupiter"
+      ]
+    },
+    {
+      "id": 32,
+      "question": "What is the currency of Japan?",
+      "correct_answer": "Yen",
+      "options": [
+        "Won",
+        "Dollar",
+        "Yen",
+        "Euro"
+      ]
+    },
+    {
+      "id": 33,
+      "question": "What is the largest ocean on Earth?",
+      "correct_answer": "Pacific Ocean",
+      "options": [
+        "Atlantic Ocean",
+        "Indian Ocean",
+        "Pacific Ocean",
+        "Arctic Ocean"
+      ]
+    },
+    {
+      "id": 34,
+      "question": "What is the currency of Japan?",
+      "correct_answer": "Yen",
+      "options": [
+        "Won",
+        "Dollar",
+        "Yen",
+        "Euro"
+      ]
+    },
+    {
+      "id": 35,
+      "question": "Which gas do plants absorb from the atmosphere?",
+      "correct_answer": "Carbon Dioxide",
+      "options": [
+        "Oxygen",
+        "Hydrogen",
+        "Carbon Dioxide",
+        "Nitrogen"
+      ]
+    },
+    {
+      "id": 36,
+      "question": "Who painted the Mona Lisa?",
+      "correct_answer": "Leonardo da Vinci",
+      "options": [
+        "Vincent van Gogh",
+        "Leonardo da Vinci",
+        "Pablo Picasso",
+        "Michelangelo"
+      ]
+    },
+    {
+      "id": 37,
+      "question": "Which gas do plants absorb from the atmosphere?",
+      "correct_answer": "Carbon Dioxide",
+      "options": [
+        "Oxygen",
+        "Hydrogen",
+        "Carbon Dioxide",
+        "Nitrogen"
+      ]
+    },
+    {
+      "id": 38,
+      "question": "What is the boiling point of water?",
+      "correct_answer": "100\u00b0C",
+      "options": [
+        "90\u00b0C",
+        "100\u00b0C",
+        "80\u00b0C",
+        "120\u00b0C"
+      ]
+    },
+    {
+      "id": 39,
+      "question": "What is the currency of Japan?",
+      "correct_answer": "Yen",
+      "options": [
+        "Won",
+        "Dollar",
+        "Yen",
+        "Euro"
+      ]
+    },
+    {
+      "id": 40,
+      "question": "What is the boiling point of water?",
+      "correct_answer": "100\u00b0C",
+      "options": [
+        "90\u00b0C",
+        "100\u00b0C",
+        "80\u00b0C",
+        "120\u00b0C"
+      ]
+    },
+    {
+      "id": 41,
+      "question": "Which planet is known as the Red Planet?",
+      "correct_answer": "Mars",
+      "options": [
+        "Venus",
+        "Earth",
+        "Mars",
+        "Jupiter"
+      ]
+    },
+    {
+      "id": 42,
+      "question": "Which gas do plants absorb from the atmosphere?",
+      "correct_answer": "Carbon Dioxide",
+      "options": [
+        "Oxygen",
+        "Hydrogen",
+        "Carbon Dioxide",
+        "Nitrogen"
+      ]
+    },
+    {
+      "id": 43,
+      "question": "What is the largest ocean on Earth?",
+      "correct_answer": "Pacific Ocean",
+      "options": [
+        "Atlantic Ocean",
+        "Indian Ocean",
+        "Pacific Ocean",
+        "Arctic Ocean"
+      ]
+    },
+    {
+      "id": 44,
+      "question": "What does CSS stand for?",
+      "correct_answer": "Cascading Style Sheets",
+      "options": [
+        "Cascading Style Sheets",
+        "Computer Style Sheets",
+        "Creative Style Sheets",
+        "Colorful Style Sheets"
+      ]
+    },
+    {
+      "id": 45,
+      "question": "What is the capital of Kenya?",
+      "correct_answer": "Nairobi",
+      "options": [
+        "Nairobi",
+        "Mombasa",
+        "Kisumu",
+        "Nakuru"
+      ]
+    },
+    {
+      "id": 46,
+      "question": "What is the capital of Kenya?",
+      "correct_answer": "Nairobi",
+      "options": [
+        "Nairobi",
+        "Mombasa",
+        "Kisumu",
+        "Nakuru"
+      ]
+    },
+    {
+      "id": 47,
+      "question": "What is the capital of Kenya?",
+      "correct_answer": "Nairobi",
+      "options": [
+        "Nairobi",
+        "Mombasa",
+        "Kisumu",
+        "Nakuru"
+      ]
+    },
+    {
+      "id": 48,
+      "question": "Which gas do plants absorb from the atmosphere?",
+      "correct_answer": "Carbon Dioxide",
+      "options": [
+        "Oxygen",
+        "Hydrogen",
+        "Carbon Dioxide",
+        "Nitrogen"
+      ]
+    },
+    {
+      "id": 49,
+      "question": "Who painted the Mona Lisa?",
+      "correct_answer": "Leonardo da Vinci",
+      "options": [
+        "Vincent van Gogh",
+        "Leonardo da Vinci",
+        "Pablo Picasso",
+        "Michelangelo"
+      ]
+    },
+    {
+      "id": 50,
+      "question": "Which planet is known as the Red Planet?",
+      "correct_answer": "Mars",
+      "options": [
+        "Venus",
+        "Earth",
+        "Mars",
+        "Jupiter"
+      ]
+    }
+  ]
+}
